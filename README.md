@@ -1,8 +1,7 @@
-### Débora Mendes de Azevedo - Eng. de Dados
+### Débora Mendes de Azevedo 
 
 ## Bem vindo!👋🏽
 
-- 👨🏽‍💻 Atualmente estudando: GCP, Python e SQL
 
 ### Onde me encontrar:
 
